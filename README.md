@@ -53,7 +53,7 @@ S1robe@github
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-%23FF0000.svg?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion%20-%23FF0000.svg?logo=clion&logoColor=white"></a>
     <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim%20-%23FF0000.svg?logo=neovim&logoColor=black"></a>
-    <a href="#"><img alt="Jetbrains Space" src="https://img.shields.io/badge/JetBrains%20Space-008678.svg?logo=jetbrains&logoColor=white"></a>
+    <a href=""><img alt="Git" src="https://img.shields.io/badge/Jetbrains Space%20-%23F05033.svg?logo=jetbrains&logoColor=turqoise&labelColor=&logoColor=black&color=black&style=plastic"></a>
     <a href=""><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white&labelColor=&logoColor=black&color=black&style=plastic"></a>
     <a href=""><img alt="Git" src="https://img.shields.io/badge/StackOverflow%20-%23F05033.svg?logo=stackoverflow&logoColor=white&labelColor=&logoColor=orange&color=black&style=plastic"></a>
 </p>
