@@ -17,7 +17,7 @@ S1robe@github
 -------------------------
 💻 Self taught in Java, Python, JavaScript, HTML, C++, Bash
 📚 Undergraduate majoring in 💾 Computer Science & Cyber Security 🛡️
-🌟 Main languages: ☕ Java-C++-Python
+🌟 Main languages: ☕ Java #️⃣ C++ 🐍 Python
 🎭 Adaptaptive, 🕵 Reliable, 🏋 Efficient
 🎵 Metal, Swing, Flamenco
 ```
@@ -70,4 +70,4 @@ S1robe@github
 
 |                                                                                                      Garrett's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://mygithub-readme-stats-gilt.vercel.app/api?username=S1robe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://mygithub-readme-stats-gilt.vercel.app/api/top-langs/?username=S1robe&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://mygithub-readme-stats-gilt.vercel.app/api?username=S1robe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |:---------------------------------------------------------------------------:| ![Top Langs](https://mygithub-readme-stats-gilt.vercel.app/api/top-langs/?username=S1robe&langs_count=8&theme=algolia&layout=compact) |
