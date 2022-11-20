@@ -32,9 +32,9 @@ S1robe@github
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2314354C.svg?logo=css&logoColor=white"></a>
     <a href=""><img alt="Java" src="https://img.shields.io/static/v1?label=%20&message=Java&color=orange"></a>
     <a href=""><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-blueviolet"></a>
-    <a href=""><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href=""><img alt="Bash" src="https://img.shields.io/static/v1?label=%20&message=Bash&color=gray&logo=superUser"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=004f99&logo=snake"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/static/v1?label=Java&message=Script&color=000000&labelColor=e19200&style=plastic"></a>
  
 <h3 align="center">
  🗄️ Databases
