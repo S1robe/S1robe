@@ -9,7 +9,7 @@
   </h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cybser+Security+Student;All+it+takes+is+a+Little+Push. . . .;&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=White+Rabbit&weight=1&duration=2700&pause=1500&color=3822F7&background=F2FFCE00&center=true&vCenter=true&width=380&lines=It+is+not+about+force;It+is+about+Will" alt="Typing SVG" /></a>
 </p>
 
 ```
