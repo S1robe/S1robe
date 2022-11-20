@@ -19,7 +19,7 @@ S1robe@github
 📚 Undergraduate majoring in 💾 Computer Science & Cyber Security 🛡️
 🌟 Main languages: ☕ Java #️⃣ C++ 🐍 Python
 🎭 Adaptaptive, 🕵 Reliable, 🏋 Efficient
-🎵 Metal, Swing, Flamenco
+🎵 🎸 Metal, 🎧 Swing, 🎼 Flamenco
 ```
 <hr>
 
