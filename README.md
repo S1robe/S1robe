@@ -54,8 +54,8 @@ S1robe@github
     <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion%20-%23FF0000.svg?logo=clion&logoColor=white"></a>
     <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim%20-%23FF0000.svg?logo=neovim&logoColor=black"></a>
     <a href="#"><img alt="Jetbrains Space" src="https://img.shields.io/badge/JetBrains%20Space-008678.svg?logo=jetbrains&logoColor=white"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white&labelColor=&logoColor=black&color=black&style=plastic"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href=""><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white&labelColor=&logoColor=black&color=black&style=plastic"></a>
+    <a href=""><img alt="Git" src="https://img.shields.io/badge/StackOverflow%20-%23F05033.svg?logo=stackoverflow&logoColor=white&labelColor=&logoColor=orange&color=black&style=plastic"></a>
 </p>
 
 ## GitHub Stats
