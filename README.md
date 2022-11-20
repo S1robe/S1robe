@@ -28,11 +28,11 @@ S1robe@github
 </h3>
 
 <h1 align="center">
-    <a href=""><img alt="Java" src="https://img.shields.io/static/v1?label=%20&message=Java&color=orange"></a>
+    <a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%A100FF.svg?logo=coffeescript&logoColor=black&labelColor=orange&color=black&style=plastic"></a>
     <a href=""><img alt="C++" src="https://img.shields.io/badge/C++-%23E34F26.svg?logo=Cplusplus&logoColor=black&labelColor=darkviolet&color=black&style=plastic"></a>
     <a href=""><img alt="Bash" src="https://img.shields.io/badge//bin/zsh-%23E34F26.svg?logo=gnubash&logoColor=black&labelColor=00f203&color=black&style=plastic"></a>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-%23E34F26.svg?logo=python&logoColor=1c66cb&color=black&style=plastic"></a>
-    <a href=""><img alt="HTML" src="https://img.shields.io/badge/%3CHTML/%3E-%23E34F26.svg?logo=html5&logoColor=black&labelColor=orange&color=black&style=plastic"></a>
+    <a href=""><img alt="HTML" src="https://img.shields.io/badge/%3CHTML/%3E-%23E34F26.svg?logo=html5&logoColor=black&labelColor=red&color=black&style=plastic"></a>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23E34F26.svg?logo=javascript&logoColor=yellow&color=black&style=plastic"></a>
     
  
