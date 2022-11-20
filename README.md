@@ -52,10 +52,9 @@ S1robe@github
 <p align="center">
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-%23FF0000.svg?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion%20-%23FF0000.svg?logo=clion&logoColor=white"></a>
-    <a href="#"><img alt="CLion" src="https://img.shields.io/badge/Neovim%20-%23FF0000.svg?logo=neovim&logoColor=black"></a>
-    <a href="#"><img alt="Jetbrains Space" src="https://img.shields.io/badge/JetBrains%20Space-008678.svg?logo=jetbrains-space&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-008678.svg?logo=sublime-text&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim%20-%23FF0000.svg?logo=neovim&logoColor=black"></a>
+    <a href="#"><img alt="Jetbrains Space" src="https://img.shields.io/badge/JetBrains%20Space-008678.svg?logo=jetbrains&logoColor=white"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/Java<Script>-%23E34F26.svg?logo=javascript&labelColor=yellow&logoColor=black&color=black&style=plastic"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
