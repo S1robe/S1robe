@@ -2,7 +2,6 @@
 <!--
 **S1robe/S1robe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- 
 -->
   
   <h1 align="center">
@@ -28,13 +27,13 @@ S1robe@github
 </h3>
 
 <h1 align="center">
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2314354C.svg?logo=css&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++-%23007396.svg?logo=c++&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2314354C.svg?logo=css&logoColor=white"></a>
+    <a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href=""><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-blueviolet"></a>
+    <a href=""><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?logo=python&logoColor=white"></a>
  
 <h3 align="center">
  🗄️ Databases
