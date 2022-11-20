@@ -7,7 +7,7 @@
 
   
   <h1 align="center">
-Hi, I'm Garrett!
+   Hi, I'm Garrett!
  </h1>
  <!--<img src="https://komarev.com/ghpvc/?username=S1robe&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Taviitt" />-->
  <img src="" alt="Profile views" width='274' align='left'/></a> 
