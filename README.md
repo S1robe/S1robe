@@ -65,9 +65,9 @@ S1robe@github
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Garrett's G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=S1robe&theme=react-dark&hide_border=true&area=true) |
 | ![Garrett's Github stats](https://mygithub-readme-stats-gilt.vercel.app/api?username=S1robe&show_icons=true&theme=algolia)              | 
-| ![Garrett's GitHub Streak](https://mygithub-readme-streak-stats-gilt.herokuapp.com/?user=S1robe&theme=algolia)                    | 
+| ![Garrett's GitHub Streak](https://mygithub-readme-streak-stats.herokuapp.com/?user=S1robe&theme=algolia)                    | 
     
 
 |                                                                                                      Garrett's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://mygithub-readme-stats-gult.vercel.app/api?username=S1robe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://mygithub-readme-stats-gilt.vercel.app/api/top-langs/?username=S1robe&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://mygithub-readme-stats-gilt.vercel.app/api?username=S1robe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://mygithub-readme-stats-gilt.vercel.app/api/top-langs/?username=S1robe&langs_count=8&theme=algolia&layout=compact) |
