@@ -15,7 +15,7 @@
 ```
 S1robe@github
 -------------------------
-💻 I am self taught in Java, Python, HTML, CSS, and C++, Bash
+💻 Self taught in Java, Python, JavaScript, HTML, C++, Bash
 📚 Undergraduate majoring in 💾 Computer Science & Cyber Security 🛡️
 🌟 Main languages: ☕ Java-C++-Python
 🎭 Adaptaptive, 🕵 Reliable, 🏋 Efficient
@@ -50,8 +50,9 @@ S1robe@github
 </h3>
 
 <p align="center">
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-%23FF0000.svg?logo=intellij&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-%23FF0000.svg?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion%20-%23FF0000.svg?logo=clion&logoColor=white"></a>
+    <a href="#"><img alt="CLion" src="https://img.shields.io/badge/Neovim%20-%23FF0000.svg?logo=neovim&logoColor=black"></a>
     <a href="#"><img alt="Jetbrains Space" src="https://img.shields.io/badge/JetBrains%20Space-008678.svg?logo=jetbrains-space&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-008678.svg?logo=sublime-text&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
