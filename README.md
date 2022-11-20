@@ -16,8 +16,9 @@
 S1robe@github
 -------------------------
 💻 I am self taught in Java, Python, HTML, CSS, and C++, Bash
-📚 Undergraduate majoring in Computer Science & Cyber Security
-🌟 Main languages: Java/C++/Python
+📚 Undergraduate majoring in 💾 Computer Science & Cyber Security 🛡️
+🌟 Main languages: ☕ Java-C++-Python
+🎭 Adaptaptive, 🕵 Reliable, 🏋 Efficient
 🎵 Metal, Swing, Flamenco
 ```
 <hr>
