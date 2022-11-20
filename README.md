@@ -65,7 +65,7 @@ S1robe@github
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Garrett's G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=S1robe&theme=react-dark&hide_border=true&area=true) |
 | ![Garrett's Github stats](https://mygithub-readme-stats-gilt.vercel.app/api?username=S1robe&show_icons=true&theme=algolia)              | 
-| ![Garrett's GitHub Streak](https://mygithub-readme-streak-stats.herokuapp.com/?user=S1robe&theme=algolia)                    | 
+| ![Garrett's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S1robe&theme=algolia)                    | 
     
 
 |                                                                                                      Garrett's Stars                                                                                                       |                                                           Top Languages                                                           |      
