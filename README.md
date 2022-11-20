@@ -31,7 +31,7 @@ S1robe@github
     <a href=""><img alt="Java" src="https://img.shields.io/static/v1?label=%20&message=Java&color=orange"></a>
     <a href=""><img alt="C++" src="https://img.shields.io/badge/C++-%23E34F26.svg?logo=Cplusplus&logoColor=black&labelColor=darkviolet&color=black&style=plastic"></a>
     <a href=""><img alt="Bash" src="https://img.shields.io/badge//bin/zsh-%23E34F26.svg?logo=gnubash&logoColor=black&labelColor=00f203&color=black&style=plastic"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=black%20&labelColor=d8a11d&style=plastic&logo=python"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-%23E34F26.svg?logo=python&logoColor=1c66cb&color=d8a11d&style=plastic&labelColor=black"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/%3CHTML/%3E-%23E34F26.svg?logo=html5&logoColor=black&labelColor=orange&color=black&style=plastic"></a>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/Java%20%3Cscript/%3E-%23E34F26.svg?logo=javascript&logoColor=yellow&color=black&style=plastic"></a>
     
