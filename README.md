@@ -19,7 +19,7 @@ S1robe@github
 🌟 Main languages: ☕ Java #️⃣ C++ 🐍 Python
 🎭 Adaptaptive, 🕵 Reliable, 🏋 Efficient
 🎵 🎸 Metal, 🎧 Swing, 🎼 Flamenco
-Need Something? Reach out: Strobe#0390 / S1robe@blackhull.dev
+Need Something? Reach out: Strobe#0390 / GarrettPrentice@tuta.io
 ```
 <hr>
 
