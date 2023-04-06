@@ -64,7 +64,7 @@ Need Something? Reach out: Strobe#0390 / GarrettPrentice@tuta.io
 |                                                                   Garretts's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Garrett's G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=S1robe&theme=react-dark&hide_border=true&area=true) |
-| ![Garrett's Github stats](https://mygithub-readme-stats-gilt.vercel.app/api?username=S1robe&show_icons=true&theme=algolia)              | 
+| ![Garrett's Github stats](https://s1robereadme.vercel.app/api?username=S1robe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)              | 
 | ![Garrett's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S1robe&theme=algolia)                    | 
     
 
