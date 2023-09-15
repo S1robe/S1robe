@@ -19,7 +19,7 @@ S1robe@github
 🎭 Adaptaptive, 🕵 Reliable, 🏋 Efficient
 🎵 🎸 Metal, 🎧 Swing, 🎼 Flamenco
 Need Something? Reach out: Strobe#0390 / GarrettPrentice@tuta.io
-New Website in Development! (
+New Website in Development!
 ```
 <hr>
 
